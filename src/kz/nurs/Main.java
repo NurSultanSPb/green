@@ -1,0 +1,8 @@
+package kz.nurs;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+    }
+}
